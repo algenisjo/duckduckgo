@@ -1,0 +1,38 @@
+use flexbox to create webpage
+
+use jquery andtoggle method to hide show enabled tab
+
+add hover tool info button
+
+add hover effect to image so that it says duck it
+
+make website mobile responsive withmedia query
+
+<!-- add into html  -------------------------------------------------------------------------------------->
+    <div class="extra">
+        <div >
+            <a class="one" href="https://stackoverflow.com/">Stack Oveflow</a>
+            <a class="one" href="https://www.udemy.com/">Udemy</a>
+            <a class="one" href="https://www.w3schools.com/jquery/jquery_hide_show.asp">W3School</a>
+            <a class="one" href="https://github.com/">GitHub</a>
+        </div>
+    </div>
+
+<div class="row">
+
+    <div class="column" >
+        <h2>welp</h2>
+        <p>welp</p>
+    </div>
+    
+    <div class="column" >
+        <h2>welp</h2>
+        <p>welp</p>
+    </div>
+    
+    <div class="column" >
+        <h2>welp</h2>
+        <p>welp</p>
+    </div>
+
+</div>
